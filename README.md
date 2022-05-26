@@ -19,7 +19,6 @@
 
 
 ## 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-## 📫 How to reach me: 
+- 🌱 I’m currently learning about data science, machine learning, and artificial intelligence tools to approach real-world business problems.
+
+ 
