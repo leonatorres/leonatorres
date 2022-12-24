@@ -1,7 +1,7 @@
 # 🦦 Leona Torres (she/her)
 
 <p align = "left">
- Hi my name is Leona and I am studying computer science.  
+ Hi I'm currently studying computer science with a minor in psychology. I'm interested in software development, web design, and ML. 
  </p>
 
 
@@ -9,16 +9,15 @@
 ### Languages:
 * Java
 * C++
-* HTML
-* CSS
+* Python
 
 ### What I want to learn:
-* Python
+* UI/UX design
 * Node.js
-* JavaScript
 
 
 ## 🔭 I’m currently working on 
-- 🌱 I’m currently learning about data science, machine learning, and artificial intelligence tools to approach real-world business problems.
+- 🌱 Currently working on creating a deep learning model for image processing with MSKCC. 
+
 
  
