@@ -5,7 +5,7 @@
  </p>
 
 <p align = "right">
- <img src= "https://media.giphy.com/media/Sm9AfJRiZofjlrkAAl/giphy.gif" width = "50%" height = "50%" />
+ <img src= "https://media.giphy.com/media/Sm9AfJRiZofjlrkAAl/giphy.gif"  />
 </p>
 
 ## 💻Technical Skills
