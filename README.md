@@ -5,7 +5,7 @@
  </p>
 
 
-![]([https://gifdb.com/gif/office-cat-typing-computer-l6urlu1jc1bvwo3i.html](https://tenor.com/view/cat-computer-typing-busy-gif-15481689))
+![](https://gifdb.com/gif/office-cat-typing-computer-l6urlu1jc1bvwo3i.html?embed=true)
 
 ## 💻Technical Skills
 ### Languages:
