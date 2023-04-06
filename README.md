@@ -5,7 +5,7 @@
  </p>
 
 
- <img src= https://media.giphy.com/media/Sm9AfJRiZofjlrkAAl/giphy.gif/>
+ <img src= "https://media.giphy.com/media/Sm9AfJRiZofjlrkAAl/giphy.gif"/>
 
 
 ## 💻Technical Skills
