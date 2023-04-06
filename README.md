@@ -5,9 +5,7 @@
  </p>
 
 
-<p align = "right">
-(![Office Cat Typing Computer](https://user-images.githubusercontent.com/42002031/230258581-200511c3-57ba-4885-a732-3e974c9c5579.gif))
- </p>
+
 
 ## 💻Technical Skills
 ### Languages:
