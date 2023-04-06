@@ -4,8 +4,8 @@
  Hi I'm currently studying computer science with a minor in psychology. I'm interested in software development, web design, and ML. 
  </p>
 
- <img src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif
-"/>
+
+ <img src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif"/>
 
 
 ## 💻Technical Skills
