@@ -1,21 +1,22 @@
 # 🦦 Leona Torres (she/her)
 
-<p align = "center">
- Hi I'm currently studying computer science with a minor in psychology. I'm interested in software development, web design, and ML. 
- </p>
+Hi I'm currently studying computer science with a minor in psychology. I'm interested in software development, web design, and ML. 
 
-<p align = "right">
- <img src= "https://media.giphy.com/media/Sm9AfJRiZofjlrkAAl/giphy.gif"  />
-</p>
+<img align="left" width= "300" src="https://media.giphy.com/media/Sm9AfJRiZofjlrkAAl/giphy.gif" alt="My Image" >
+
+<div align="center">
 
 ## 💻Technical Skills
-* Python
-* Java
-* scikit-learn
-* Pandas
 
-## 🔭 I’m currently working on 
-- 🌱 Currently working on creating a deep learning model for image processing with MSKCC. 
+Python
 
+Java
 
- 
+scikit-learn
+
+Pandas
+</div>
+
+## 🔭 I’m currently learning  
+🌱 UX Design
+
