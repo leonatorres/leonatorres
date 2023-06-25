@@ -1,6 +1,6 @@
 # 🦦 Leona Torres (she/her)
 
-<p align = "left">
+<p align = "center">
  Hi I'm currently studying computer science with a minor in psychology. I'm interested in software development, web design, and ML. 
  </p>
 
