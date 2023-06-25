@@ -9,15 +9,10 @@
 </p>
 
 ## 💻Technical Skills
-### Languages:
-* Java
-* C++
 * Python
-
-### What I want to learn:
-* UI/UX design
-* Node.js
-
+* Java
+* scikit-learn
+* Pandas
 
 ## 🔭 I’m currently working on 
 - 🌱 Currently working on creating a deep learning model for image processing with MSKCC. 
