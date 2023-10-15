@@ -20,5 +20,5 @@ Pandas
 ## 🔭 I’m currently learning  
 🌱 UX Design - Google Coursera 
 🌱 Cybersecurity - Google Coursera 
-
+🌱 Cloud services - AWS & Azure
 
